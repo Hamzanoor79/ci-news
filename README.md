@@ -1,2 +1,2 @@
 # ci-news
-Project in codeigniter
+Project
